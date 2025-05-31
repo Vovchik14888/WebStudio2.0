@@ -126,6 +126,7 @@ font-size: 14px;
 line-height: 24px;
 letter-spacing: 3%;
 color: #FFFFFF99;
+text-decoration: none;
 }
 
 .footer_container--adress {
@@ -135,4 +136,5 @@ font-size: 14px;
 line-height: 24px;
 letter-spacing: 3%;
 color: white;
+text-decoration: none ;
 }
