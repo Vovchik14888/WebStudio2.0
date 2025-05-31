@@ -34,64 +34,105 @@ line-height: 60px;
 letter-spacing: 6%;
 text-align: center;
 text-transform: uppercase;
-color: #000000;
+color: #ffffff;
 }
 
 .info_card--title {
     font-family: Roboto;
-font-weight: 700;
-font-size: 14px;
-line-height: 100%;
-letter-spacing: 3%;
-text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-transform: uppercase;
 
 }
 
 .info_card--text {
     font-family: Roboto;
-font-weight: 400;
-font-size: 14px;
-line-height: 24px;
-letter-spacing: 3%;
-color: #757575;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+    color: #757575;
 }
 
 .whatWeDo_title {
     font-family: Roboto;
-font-weight: 700;
-font-size: 36px;
-line-height: 100%;
-letter-spacing: 3%;
-text-align: center;
-color: #212121;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
 }
 
 .team_container--card--title {
     font-family: Roboto;
-font-weight: 500;
-font-size: 16px;
-line-height: 100%;
-letter-spacing: 3%;
-text-align: center;
-color: #212121;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
 }
 
 .team_container--card--job {
     font-family: Roboto;
-font-weight: 400;
-font-size: 16px;
-line-height: 100%;
-letter-spacing: 3%;
-text-align: center;
-color: #757575;
-}
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #757575;
+    }
 
 .team_title {
     font-family: Roboto;
-font-weight: 700;
-font-size: 36px;
-line-height: 100%;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
+}
+
+.solution_container--button {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 6%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    box-shadow: 0px 4px 4px 0px #00000026;
+    background-color: #2196F3;
+    border: none;
+    border-radius: 4px;
+}
+
+.solution {
+    background-color: #2F303A;
+}
+
+.footer_container {
+    background-color:#2F303A ;
+}
+
+.footer_container--info {
+    font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
 letter-spacing: 3%;
-text-align: center;
-color: #212121;
+color: #FFFFFF99;
+}
+
+.footer_container--adress {
+    font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 3%;
+color: white;
 }
